@@ -15,7 +15,7 @@ Feel free to connect or browse through my repositories to see what I've been up 
 - 🌱 I’m a **Dart / Flutter** Dev
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **onyedikachukwujosephjmc@gmail.com**
-- ⚡ Fun fact: **I am also a financial Analyst**
+- ⚡ Fun fact: **i'm also a financial analyst**
 
 
 ### 🛠 Tech Stack  
@@ -24,7 +24,12 @@ Feel free to connect or browse through my repositories to see what I've been up 
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
+### 🛠 Tools & Libraries  
+![BLOC](https://img.shields.io/badge/Bloc-004880?style=for-the-badge&logo=bloc&logoColor=white)  
+![PROVIDER](https://img.shields.io/badge/Provider-235FDC?style=for-the-badge&logo=flutter&logoColor=white)  
+![GETX](https://img.shields.io/badge/GetX-666666?style=for-the-badge&logo=getx&logoColor=white)  
+![RIVERPOD](https://img.shields.io/badge/Riverpod-1D3557?style=for-the-badge&logo=riverpod&logoColor=white)  
+![HIVE](https://img.shields.io/badge/Hive-FFA500?style=for-the-badge&logo=hive&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
