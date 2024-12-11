@@ -1,35 +1,28 @@
 ![Pretty lights](prettylights.gif)
 
-# Hi, I'm Joseph <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Onyedikachukwu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/lordjmcfx)
 [<img src="https://komarev.com/ghpvc/?username=jmcfx&label=Profile%20views&color=0e75b6&style=flat" alt="jmcfx" />](https://github.com/jmcfx/jmcfx)
 
-I am a Software developer and aspiring to be a Blockchain developer. At the moment, I am more focused on building backend projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I'm a passionate Software Developer specializing in Dart and Flutter. My expertise lies in building elegant, efficient, and user-friendly mobile applications. I thrive on crafting intuitive user interfaces and seamless user experiences.
 
-- 🌱 I’m currently learning about **Web 3**
+In my spare time, I explore state management techniques, dive into optimizing Flutter performance, and learn new tools to enhance my development skills. I'm always eager to collaborate on exciting projects and turn innovative ideas into reality.
+
+Feel free to connect or browse through my repositories to see what I've been up to!
+
+
+- 🌱 I’m a **Dart / Flutter** Dev
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **onyedikachukwujosephjmc@gmail.com**
-- 📁 Check out my portfolio [coming.soon](#)
-- ⚡ Fun fact: **I no dey rest**
+- ⚡ Fun fact: **I am also a financial Analyst**
 
-### Tools & Technologies
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛠 Tech Stack  
+![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
