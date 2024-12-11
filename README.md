@@ -5,11 +5,12 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/lordjmcfx)
 [<img src="https://komarev.com/ghpvc/?username=jmcfx&label=Profile%20views&color=0e75b6&style=flat" alt="jmcfx" />](https://github.com/jmcfx/jmcfx)
 
-I'm a passionate Software Developer specializing in Dart and Flutter. My expertise lies in building elegant, efficient, and user-friendly mobile applications. I thrive on crafting intuitive user interfaces and seamless user experiences.
+I'm a passionate Software Developer specializing in Dart, Flutter, and Java. My expertise lies in building elegant, efficient, and user-friendly mobile applications. I thrive on crafting intuitive user interfaces and seamless user experiences.
 
-In my spare time, I explore state management techniques, dive into optimizing Flutter performance, and learn new tools to enhance my development skills. I'm always eager to collaborate on exciting projects and turn innovative ideas into reality.
+In my spare time, I explore state management techniques, dive into optimizing Flutter performance, and learn new tools to enhance my development skills. I also love to explore new architectures, continuously expanding my knowledge and refining my approach to software development.
 
-Feel free to connect or browse through my repositories to see what I've been up to!
+I'm always eager to collaborate on exciting projects and turn innovative ideas into reality. Feel free to connect or browse through my repositories to see what I've been up to!
+
 
 
 - 🌱 I’m a **Dart / Flutter** Dev
@@ -20,7 +21,8 @@ Feel free to connect or browse through my repositories to see what I've been up 
 
 ### 🛠 Tech Stack  
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
